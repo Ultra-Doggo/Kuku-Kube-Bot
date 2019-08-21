@@ -6,7 +6,7 @@ I use the term "bot" really loosely here. In reality this code is super, SUPER h
 
 The script takes into account what I'll call "pixel coordinates" for each of the squares on the screen, which will change for each person depending on their screen size and resolution.
 
-This was my first, real little script project in Python. In the future I might trying to make the script universal, in that, it works on any machine when run. Eventually I'll also make a video of the script in action.
+This was my first, real simple script project in Python. In the future I might try to make the script universal, in that, it works on any machine when run. Eventually I'll also make a video of the script in action.
 
 ## Getting Started
 This script uses a few 3rd party libraries and modules, each of which need to be installed in order for the script to work. As the case with most Python projects, I recommend using a virtual environment too.

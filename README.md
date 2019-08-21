@@ -18,3 +18,8 @@ You're going to need some sort of package manager to install the required module
 * PyAutoGui - Used for moving mouse around and clicking the screen : [Website](https://pyautogui.readthedocs.io/en/latest/), [PyPi page](https://pypi.org/project/PyAutoGUI/)
 * PyScreeze - Used to take temporary screenshots : [Github Repo](https://github.com/asweigart/pyscreeze), [PyPi page](https://pypi.org/project/PyScreeze/)
 
+### Installing
+Copy the link from the green "Clone or download" button. Then git clone the project once you have changed to your desired terminal directory, like so:
+```
+git clone https://github.com/Ultra-Doggo/Kuku-Kube-Bot.git
+```

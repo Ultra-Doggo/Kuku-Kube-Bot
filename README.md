@@ -4,7 +4,7 @@
 #### Notice :
 I use the term "bot" really loosely here. In reality this code is super, SUPER hardcoded, to the point that in it's current form, it really only works on my machine. 
 
-The script takes into account what I'll call "pixel coordinates" for each of the squares on the screen, which will change for each person depending on their screen size and resolution.
+The script takes into account what I'll call "pixel coordinates" for each of the squares on the screen, which will be different for each person, depending on their screen size and resolution.
 
 This was my first, real simple script project in Python. In the future I might try to make the script universal, in that, it works on any machine when run. Eventually I'll also make a video of the script in action.
 

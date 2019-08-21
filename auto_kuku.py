@@ -182,18 +182,7 @@ def main():
     process(7)
     process(7)
     process(7)
-
-    '''
-    process(8)
-    process(8)
-    process(8)
-    process(8)
-    process(8)
-    process(8)
-    process(8)
-    '''
-
-
+    
     for i in range(0, 6):
         process(8)
 
